@@ -1,0 +1,5 @@
+﻿Version 0.1 - 15-10-2017
+	- First setup
+Version 0.2 - 15-12-2017
+	- Screen functioning OK
+	- Game engine OK
